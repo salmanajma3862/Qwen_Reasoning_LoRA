@@ -1,4 +1,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salmanajma3862/Qwen_Reasoning_loRA/blob/main/Qwen_Reasoning_Finetuning.ipynb)
+
 🚀 Qwen2.5-3B Reasoning Fine-Tuning with Unsloth
 This repository contains a Google Colab notebook to fine-tune Qwen2.5-3B-Instruct into a reasoning model (O1-style). By using LoRA (Low-Rank Adaptation) and the Unsloth library, we achieve 2x faster training and 70% less VRAM usage, making it possible to train on a free T4 GPU.
 
@@ -72,7 +73,9 @@ Alpha: 16
 Learning Rate: 2e-4
 
 🤝 Contributing
+
 Feel free to fork this repo, open issues, or submit PRs if you have suggestions for better reasoning datasets or hyperparameter optimizations!
 
-🔗 Connect with me
+🔗 Connect with me on LinkedIn
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/salman-ajmal2/)
